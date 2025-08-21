@@ -83,7 +83,7 @@ The final tidy dataset contains:
 Each row represents the average value of each measurement for a given subject performing a given activity.
 
 ---
-
+ 
 ## 6. Notes
 
 - The cleaning ensures all variable names are **descriptive and consistent**.  
