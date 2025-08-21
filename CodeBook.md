@@ -13,6 +13,7 @@ The purpose of this CodeBook is to describe the variables, transformations, and 
 - **run_analysis.R** – R script that reads the raw data, cleans and transforms it, and produces the tidy dataset.  
 - **CodeBook.md** – Documentation describing the dataset and cleaning steps.  
 - **tidy_dataset.txt** – The resulting tidy dataset with the average of each variable for each subject and activity.
+- **README.md** – This file, providing an overview of the project, instructions, and details about the repository contents.
 
 ---
 
