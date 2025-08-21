@@ -11,7 +11,11 @@ This repository contains the R scripts and tidy dataset for the **Samsung Human 
 - **CodeBook.md** – Documentation describing the variables, dataset, and cleaning steps (this file).  
 
 ---
+## Source
 
+[Human Activity Recognition Using Smartphones Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
+---
 ## How to Run
 
 1. Place the **Samsung HAR Dataset** in your working directory, keeping the original folder structure (`train`, `test`, `features.txt`, `activity_labels.txt`).  
@@ -20,7 +24,3 @@ This repository contains the R scripts and tidy dataset for the **Samsung Human 
 
 ```R
 source("run_analysis.R")
-
-## Source
-
-[Human Activity Recognition Using Smartphones Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
